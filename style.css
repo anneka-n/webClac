@@ -1,0 +1,13 @@
+﻿@charset "UTF-8";
+#header{
+   margin-top: auto;
+   background-color: blue;
+   margin: 0px;
+}
+
+#header h1{
+   text-align: center;
+   font-size: 100gipx;
+   color: white;
+   margin: 0px;
+}
